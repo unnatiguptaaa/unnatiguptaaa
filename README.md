@@ -1,63 +1,97 @@
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Developer | Java Developer | Full Stack Developer | AI Enthusiast
+🚀 Aspiring Software Developer | Full Stack Developer | Java Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Developer;Fronted +Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Full+Stack+Developer;Java+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things..." />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=unnatiguptaaa&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/unnatiguptaaa?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/unnatiguptaaa?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
 🎓 B.Tech CSE Student
 
-💻 Passionate about Java & DSA
+💻 Full Stack Developer
 
-🌱 Currently Learning MERN Stack & AI
+☕ Java Developer
 
-🚀 Building Real-World Projects
+🤖 AI Enthusiast
 
-🎯 Goal: Software Development Engineer
+📚 Currently learning MERN Stack & Advanced DSA
+
+🚀 Passionate about building scalable web applications
+
+🌱 Always exploring new technologies
+
+🎯 Goal: Become a Software Development Engineer
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman,figma"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=unnatiguptaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=unnatiguptaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=unnatiguptaaa&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=unnatiguptaaa&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
 
-## 🚀 Featured Projects
+# 📈 Contribution Graph
 
-⭐ EventVerse
+<p align="center">
 
-⭐ AI Portfolio
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatiguptaaa&theme=tokyo-night"/>
 
-⭐ FarmLink AI
-
-⭐ E-Commerce Website
+</p>
 
 ---
 
-## 🌐 Connect with Me
+# 💻 Currently Working On
+
+- ☕ Java & DSA
+- 🤖 AI & Machine Learning
+- 💼 Open Source Contributions
+
+
+# 🚀 Featured Projects
+
+### 🎟️ EventVerse
+Full Stack Event Management Platform using React, Node.js, Express & MongoDB.
+
+### 🤖 AI Portfolio
+AI-powered animated developer portfolio.
+
+### 🛒 E-Commerce Website
+Modern full stack shopping platform.
+
+### 📚 Java DSA
+Collection of LeetCode & DSA solutions in Java.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -77,8 +111,14 @@
 
 ---
 
+# ✨ Quote
+
+> **"Code with Passion. Learn with Curiosity. Build with Purpose." 🚀**
+
+---
+
 <p align="center">
 
-✨ Dream Big • Code Smart • Never Stop Learning ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
 
 </p>
