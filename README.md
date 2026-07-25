@@ -77,9 +77,6 @@
 
 # 🚀 Featured Projects
 
-### 🎟️ EventVerse
-Full Stack Event Management Platform using React, Node.js, Express & MongoDB.
-
 ### 🤖 AI Portfolio
 AI-powered animated developer portfolio.
 
