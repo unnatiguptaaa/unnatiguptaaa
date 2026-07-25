@@ -7,17 +7,15 @@
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
 
 <h3 align="center">
-🚀 Aspiring Software Developer | Full Stack Developer | Java Developer | AI Enthusiast
+🚀Full Stack Developer | Java Developer | AI Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Full+Stack+Developer;Java+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+Developer;Open+Source+Contributor;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=unnatiguptaaa&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/unnatiguptaaa?style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/unnatiguptaaa?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
