@@ -122,3 +122,9 @@ Collection of LeetCode & DSA solutions in Java.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
 
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unnatiguptaaa/unnatiguptaaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
