@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400">
+</div>
+
+
+<br>
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
 
 <h3 align="center">
