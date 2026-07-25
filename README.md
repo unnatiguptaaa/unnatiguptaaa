@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Developer;Frontend+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack +Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things..." />
 </p>
 
 ---
@@ -44,27 +44,6 @@
 
 </p>
 
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnatiguptaaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=unnatiguptaaa&theme=algolia&no-frame=true"/>
-
-</p>
-
----
 
 ## 🚀 Featured Projects
 
