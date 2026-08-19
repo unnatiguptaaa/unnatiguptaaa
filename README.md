@@ -52,22 +52,18 @@
 
 # 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=unnatiguptaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=unnatiguptaaa&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=unnatiguptaaa&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
-# 📈 Contribution Graph
+
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatiguptaaa&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unnatiguptaaa&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
