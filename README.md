@@ -104,18 +104,6 @@
 - 🤖 AI & Machine Learning
 - 💼 Open Source Contributions
 
-
-# 🚀 Featured Projects
-
-### 🤖 AI Portfolio
-AI-powered animated developer portfolio.
-
-### 🛒 E-Commerce Website
-Modern full stack shopping platform.
-
-### 📚 Java DSA
-Collection of LeetCode & DSA solutions in Java.
-
 ---
 
 # 🌐 Connect With Me
